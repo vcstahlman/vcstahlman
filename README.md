@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @vcstahlman a wanna be remote software engineer. I am working on portfolio stuff and learning new things as much as I can
-- 👀 I’m interested in Software development and learning new things
+- 👋 Hi, I’m @vcstahlman I am a technical product consultant for GrapeCity.
+- 👀 I’m interested in Software development and learning new things, and when I finish my house I will be putting some side projects here.
 - 🌱 I’m currently learning a little bit of app development and reteaching myself some languages that I have worked with in the past.
-- 💞️ I’m looking to collaborate on anything that you may want me to work on.
 - 📫 How to reach me bicvoc17@gmail.com
 
 <!---
